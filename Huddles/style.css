@@ -39,6 +39,10 @@ h3{
     padding: 6px;
 }
 
+#span_{
+    /*float: right;*/
+}
+
 @media (max-width: 320px){
     p{
         margin-top: 5px !important;
@@ -57,10 +61,8 @@ h3{
     }
 
     #span_{
-        float: left !important;
-        margin: 55px;
-        margin-top: 2px;
+        text-align: center !important;
+        margin: 50px;
+        margin-top: 0px;
     }
-
-    
 }
